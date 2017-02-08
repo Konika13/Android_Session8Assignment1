@@ -1,0 +1,43 @@
+body{
+    display:inline
+}
+
+form{
+    width:700px;
+    background-color: lightgrey;
+    float:left
+  
+}
+
+h2{
+    color:darkblue
+}
+
+.myclass{
+    width:280px;
+    padding:10px;
+    color:darkslategrey;
+    float:left;
+    height:250px;
+}
+
+span{
+    color:darkblue
+}
+
+input{
+    padding:5px;
+    border:solid 1px red;
+    width:280px
+}
+.registered{
+    width:350px;
+    margin:10px; 
+    padding:10px;
+    background-color: darkblue;
+    border:white;
+    float:right;
+    color:white;
+    height:220px;
+    
+}
